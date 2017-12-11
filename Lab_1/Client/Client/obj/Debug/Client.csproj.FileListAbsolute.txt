@@ -1,0 +1,16 @@
+D:\РИС\Client\Client\bin\Debug\Client.exe.config
+D:\РИС\Client\Client\bin\Debug\Client.exe
+D:\РИС\Client\Client\bin\Debug\Client.pdb
+D:\РИС\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\РИС\Client\Client\obj\Debug\Client.exe
+D:\РИС\Client\Client\obj\Debug\Client.pdb
+D:\РИС\Lab_1\Client\Client\bin\Debug\Client.exe.config
+D:\РИС\Lab_1\Client\Client\bin\Debug\Client.exe
+D:\РИС\Lab_1\Client\Client\bin\Debug\Client.pdb
+D:\РИС\Lab_1\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\РИС\Lab_1\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\РИС\Lab_1\Client\Client\obj\Debug\Client.exe
+D:\РИС\Lab_1\Client\Client\obj\Debug\Client.pdb
+F:\Копия флешки для учебы\3 курс\Распределенные ИС\РИС\Lab_1\Client\Client\bin\Debug\Client.exe.config
+F:\Копия флешки для учебы\3 курс\Распределенные ИС\РИС\Lab_1\Client\Client\obj\Debug\Client.exe
+F:\Копия флешки для учебы\3 курс\Распределенные ИС\РИС\Lab_1\Client\Client\obj\Debug\Client.pdb
